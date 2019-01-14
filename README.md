@@ -11,9 +11,9 @@ and will be rendered to beautiful HTML when you visit your GitHub repo.
 ## Student Information
 Please also edit _README.md_ and replace your instructor's name and NetID with your own:
 
-_Student name_: Dan WALLACH
+_Student name_: Gabby Jackson
 
-_Student NetID_: dwallach
+_Student NetID_: gej3
 
 Your NetID is typically your initials and a numeric digit. That's
 what we need here.
@@ -22,15 +22,25 @@ _If you contacted us in advance and we approved a late submission,
 please cut-and-paste the text from that email here._
 
 ## Problem 1
-- Scenario: {Stadium|TSA|Documents|Grading|G20}
+- Scenario: {Stadium}
 - Assumptions:
-  - explain_your_assumptions
+  The stadium has a roof that can open or close. During this game, the
+  roof is open.
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  I think the most important assets to protect are the people that are
+  in the stadium. This includes the teams that are playing along with any
+  coaches, trainers, cheerleaders or other people in the stadium, the fans
+  in the regular seats and the boxes, and people working in the stadium.
+  In addition, there will probably be people who live or work around the
+  stadium, so any attack that occurs inside the stadium will affect the
+  surrounding community as well. In addition, the networks that the
+  stadium uses for its scoreboard needs to be protected. Fans will purchase
+  food using credit and debit cards, so all of those networks are assets
+  as well.
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  The largest thread would be a threat to physically harm the people in the
+  stadium. I will focus on protecting this threat, because it has the greatest
+  potential for loss of life.
 - Countermeasures:
   - explanatory_paragraph
   - explanatory_paragraph ...
