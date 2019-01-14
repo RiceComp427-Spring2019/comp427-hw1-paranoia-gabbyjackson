@@ -35,15 +35,36 @@ please cut-and-paste the text from that email here._
   stadium, so any attack that occurs inside the stadium will affect the
   surrounding community as well. In addition, the networks that the
   stadium uses for its scoreboard needs to be protected. Fans will purchase
-  food using credit and debit cards, so all of those networks are assets
-  as well.
+  food and items using credit and debit cards, so all of those networks
+  are assets as well.
 - Threats:
   The largest thread would be a threat to physically harm the people in the
   stadium. I will focus on protecting this threat, because it has the greatest
-  potential for loss of life.
+  potential for loss of life. An enemy could attempt to bomb the stadium from
+  the air, killing a good portion of fans, players and workers. Alternatively,
+  they could attempt to enter the stadium through the ground with weapons and
+  attack people from the inside, either on the field or in the stands. There
+  could also be an intentional poisoning, if someone tampered with the food
+  supply at some point before or during the game. In addition to these
+  physical threats, an enemy could attempt to hack into any amount of
+  networks that are running through the stadium, whether they relate to
+  payments, the scoreboard, or communications.
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  To prevent the physical attacks, I would take a twofold approach. I would
+  first protect the air, by working with local law enforcement, military bases
+  and airports nearby to ensure that airspace within a 1 mile radius was safe.
+  If there was a blimp, like the Goodyear blimp, that was scheduled to fly over
+  the stadium, I would have the blimp and its drivers searched before the flight.
+  I considered stationing guards on the blimps, but this seems like an expensive
+  countermeasure. Security guards that were already hired could search the blimp
+  before it takes off, and I think this type of attack is not very likely.
+  The second part of the approach would concern ground defenses. I would
+  station security around all of the team locker rooms and areas, as well as
+  any tunnels going in or out of the stadium. In addition, I would have every
+  single person entering the stadium searched thoroughly, so there is no
+  weaponry brought in. This is an expensive measure, but I think that the costs
+  are worth it. The benefit of having these searches is that we know that no
+  person is entering the premises with a weapon.
 
 ## Problem 2
 - Scenario: {Stadium|TSA|Documents|Grading|G20}
